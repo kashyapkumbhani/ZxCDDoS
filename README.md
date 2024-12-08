@@ -49,9 +49,11 @@ One star = continuously updating multiple methods
 
 #shell
 
-curl -O https://raw.githubusercontent.com/kashyapkumbhani/ZxCDDoS/main/setup_script.sh
-chmod +x setup_script.sh
-Run the script: ./setup_script.sh.
+curl -O https://raw.githubusercontent.com/kashyapkumbhani/ZxCDDoS/main/setup_script.sh <br>
+chmod +x setup_script.sh <br>
+Run the script: <br>
+./setup_script.sh.
+<br>
 
 # Setup
 ```sh
