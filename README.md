@@ -45,8 +45,13 @@ One star = continuously updating multiple methods
 - [x] Powerful
 - [x] Simple
 - [x] Methods for Layer 4 and 7
-- [x] Bypass (Cloudflare, OVH, NFO,...)  
+- [x] Bypass (Cloudflare, OVH, NFO,...)
 
+#shell
+
+curl -O https://raw.githubusercontent.com/kashyapkumbhani/ZxCDDoS/main/setup_script.sh
+chmod +x setup_script.sh
+Run the script: ./setup_script.sh.
 
 # Setup
 ```sh
